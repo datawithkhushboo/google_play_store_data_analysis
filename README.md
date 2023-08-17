@@ -2,7 +2,7 @@
 
 # Google Play Store Data Analysis
 
-![N|Solid](https://cdn.dribbble.com/users/1858234/screenshots/4250466/google-play-loader-animation-800x600.gif)
+![N|Solid](https://i.pinimg.com/originals/60/a8/b5/60a8b504a19449659ac8e41d3fb807a4.gif)
 
 ## Problem Statement
 The objective of this project is to explore and analyze the Google Play Store apps dataset, which includes information such as category, rating, size, and more. Additionally, a dataset containing customer reviews of the Android apps is provided. The goal is to discover key factors that contribute to app engagement and overall success.
